@@ -44,9 +44,12 @@
 <br />
 
 ![Sathmin-Januth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sathmin-Januth&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathmin-Januth)](https://github.com/Sathmin-Januth/github-readme-stats)
+
+---
 
 <br />
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathmin-Januth&layout=compact)](https://github.com/Sathmin-Januth/github-readme-stats)
+
+<br />
+
