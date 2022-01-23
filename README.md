@@ -45,11 +45,16 @@
 
 ![Sathmin-Januth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sathmin-Januth&show_icons=true&theme=default)
 
+
 ---
 
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathmin-Januth&layout=compact)](https://github.com/Sathmin-Januth/github-readme-stats)
 
+
+---
+
 <br />
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sathmin-Januth&repo=github-readme-stats)](https://github.com/Sathmin-Januth/github-readme-stats)
