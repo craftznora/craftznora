@@ -56,5 +56,3 @@
 ---
 
 <br />
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sathmin-Januth&repo=github-readme-stats)](https://github.com/Sathmin-Januth/github-readme-stats)
