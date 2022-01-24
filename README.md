@@ -1,11 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h1 align="center">Hi 👋, I'm Sathmin Januth</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sathmin Januth</h1>
 <h3 align="center">A newbie developer from Sri Lanka</h3>
 <img align="right" alt="coding" width="310" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 </a><img src="https://komarev.com/ghpvc/?username=sathmin-januth&label=Profile%20views&color=0e75b6&style=flat" alt="sathmin-januth" />
 <a href="https://github.com/Sathmin-Januth?tab=followers"><img src="https://img.shields.io/github/followers/Sathmin-Januth?label=Followers&style=social" alt="GitHub Badge"></a>
-</a>
+
 <p align="left"> <a href="https://twitter.com/SathminJanuth" target="blank"><img src="https://img.shields.io/twitter/follow/SathminJanuth?logo=twitter&style=for-the-badge" alt="SathminJanuth" /></a> </p>
 
 - 🌱 I’m currently learning **everything 🤣**
