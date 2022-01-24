@@ -32,11 +32,11 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sathmin-Januth&show_icons=true&locale=en" alt="Sathmin-Januth" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sathmin-Januth&show_icons=true&locale=en" alt="Sathmin-Januth" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sathmin-Januth&" alt="Sathmin-Januth" /></p>
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sathmin-Januth&" alt="Sathmin-Januth" /></p>
+
 
 ---
 
