@@ -1,4 +1,4 @@
-
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Sathmin Januth</h1>
 <h3 align="center">A newbie developer from Sri Lanka</h3>
 <img align="right" alt="coding" width="310" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -32,7 +32,11 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sathmin-Januth&show_icons=true&locale=en" alt="Sathmin-Januth" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sathmin-Januth&" alt="Sathmin-Januth" /></p>
+<a href="https://github.com/Sathmin-Januth/github-readme-stats"><img alt="Sathmin Januth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sathmin-Januth&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+---
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sathmin-Januth&" alt="Sathmin-Januth" /></p>
 
 ---
 
