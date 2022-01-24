@@ -32,8 +32,10 @@
 
 ---
 
-<a href="https://github.com/Sathmin-Januth/github-readme-stats"><img alt="Sathmin Januth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sathmin-Januth&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
+<p align="center">
+    <a href="https://github.com/Sathmin-Januth/github-readme-stats"><img alt="Sathmin Januth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sathmin-Januth&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+    
 ---
 
 <p align="center">
