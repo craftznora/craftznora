@@ -40,16 +40,14 @@
 
 <p align="center">
     <a href="https://github.com/Sathmin-Januth/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sathmin-Januth&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sathmin Januth's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sathmin-Januth&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
 </p>
 
 ---
-
-
-
+<p align="center">
+    <a href="https://github.com/Sathmin-Januth/github-readme-activity-graph"><img alt="Sathmin Januth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sathmin-Januth&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</p>
+    
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sathmin-Januth&show_icons=true&locale=en&layout=compact" alt="Sathmin-Januth" /></p>
-
----
