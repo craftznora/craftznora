@@ -1,4 +1,4 @@
-https://gifimage.net/wp-content/uploads/2017/10/discord-gif-profile-pic-4.gif
+
 <h1 align="center">Hi 👋, I'm Sathmin Januth</h1>
 <h3 align="center">A newbie developer from Sri Lanka</h3>
 <img align="right" alt="coding" width="310" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
