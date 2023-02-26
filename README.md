@@ -3,8 +3,8 @@
 <h3 align="center">A newbie developer from Sri Lanka</h3>
 <img align="right" alt="coding" width="310" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-</a><img src="https://komarev.com/ghpvc/?username=sathmin-januth&label=Profile%20views&color=0e75b6&style=flat" alt="sathmin-januth" />
-<a href="https://github.com/Sathmin-Januth?tab=followers"><img src="https://img.shields.io/github/followers/Sathmin-Januth?label=Followers&style=social" alt="GitHub Badge"></a>
+</a><img src="https://komarev.com/ghpvc/?username=craftznora&label=Profile%20views&color=0e75b6&style=flat" alt="craftznora" />
+<a href="https://github.com/craftznora?tab=followers"><img src="https://img.shields.io/github/followers/craftznora?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <a href="https://discord.gg/pkf2Hzxa9y"><img src="https://discord.com/api/guilds/944063539096748093/widget.png?style=banner2"></a>
 
@@ -23,7 +23,7 @@
 <a href="https://twitter.com/sathminjnauth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sathminjnauht" height="30" width="40" /></a>
 <a href="https://fb.com/sathminjanuth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sathminjanuth" height="30" width="40" /></a>
 <a href="https://instagram.com/sathminjanuth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sathminjanuth" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sathmin januth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sathmin januth" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/thecodebase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sathmin januth" height="30" width="40" /></a>
 </p>
 
 ---
@@ -51,26 +51,26 @@
 ---
 
 <p align="center">
-    <a href="https://github.com/Sathmin-Januth/github-readme-stats"><img alt="Sathmin Januth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sathmin-Januth&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/craftznora/github-readme-stats"><img alt="Sathmin Januth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=craftznora&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
     
 ---
 
 <p align="center">
-    <a href="https://github.com/Sathmin-Januth/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sathmin Januth's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sathmin-Januth&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+    <a href="https://github.com/craftznora/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sathmin Januth's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=craftznora&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
 </p>
 
 ---
 <p align="center">
-    <a href="https://github.com/Sathmin-Januth/github-readme-activity-graph"><img alt="Sathmin Januth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sathmin-Januth&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    <a href="https://github.com/craftznora/github-readme-activity-graph"><img alt="Sathmin Januth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=craftznora&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p>
     
 ---
 
 <p align="center">
-    <a href="https://github.com/Sathmin-Januth/github-readme-stats"><img alt="Sathmin Januth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathmin-Januth&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/craftznora/github-readme-stats"><img alt="Sathmin Januth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=craftznora&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
 ---
