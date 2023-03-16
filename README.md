@@ -1,7 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<center><a href="#"><img width="100%" height="auto" src="https://support.discord.com/hc/en-us/article_attachments/206303208/eJwVyksOwiAQANC7sJfp8Ke7Lt15A0MoUpJWGmZcGe-ubl_eW7zGLmaxMZ80A6yNch-rJO4j1SJr73Uv6Wwkcz8gMae8HeXJBOjC5NEap42dokUX_4SotI8GVfBaYYDldr3n3y_jomRtD_H5ArCeI9g.zGz1JSL-9DXgpkX_SkmMDM8NWGg.gif" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sathmin Januth</h1>
 <h3 align="center">A newbie developer from Sri Lanka</h3>
-<img align="right" alt="coding" width="310" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="310" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
 </a><img src="https://komarev.com/ghpvc/?username=craftznora&label=Profile%20views&color=0e75b6&style=flat" alt="craftznora" />
 <a href="https://github.com/craftznora?tab=followers"><img src="https://img.shields.io/github/followers/craftznora?label=Followers&style=social" alt="GitHub Badge"></a>
@@ -64,7 +64,7 @@
 
 ---
 <p align="center">
-    <a href="https://github.com/craftznora/github-readme-activity-graph"><img alt="Sathmin Januth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=craftznora&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    <a href="https://github.com/craftznora/github-readme-activity-graph"><img alt="Sathmin Januth's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=craftznora&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p>
     
 ---
