@@ -6,7 +6,7 @@
 </a><img src="https://komarev.com/ghpvc/?username=craftznora&label=Profile%20views&color=0e75b6&style=flat" alt="craftznora" />
 <a href="https://github.com/craftznora?tab=followers"><img src="https://img.shields.io/github/followers/craftznora?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<a href="https://discord.gg/pkf2Hzxa9y"><img src="https://discord.com/api/guilds/944063539096748093/widget.png?style=banner2"></a>
+<a href="https://discord.gg/V3JHXNNbXZ"><img src="https://discord.com/api/guilds/944063539096748093/widget.png?style=banner2"></a>
 
 - 🌱 I’m currently learning **everything 🤣**
 
