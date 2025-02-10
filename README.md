@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate with **other content creators**
 
-- 📫 How to reach me **sathminj1@gmail.com**
+- 📫 How to reach me **sasvinshevinu@gmail.com**
 
 - ⚡ Fun fact **I like drawing and swimming**
 
